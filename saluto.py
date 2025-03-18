@@ -1,3 +1,3 @@
 #saluto.py
-
-print("mi chiamo Giovanni Sperandini")
+nome="Giovanni SPerandini"
+print("mi chiamo",nome)
